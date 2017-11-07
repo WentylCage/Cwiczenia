@@ -3,3 +3,4 @@ public class Cwiczenie1 {
         System.out.println("Pozdro dla Kornela xD");
     }
 }
+//Wiem mało ambitnie
